@@ -1,0 +1,38 @@
+/* Od Vasko search box */
+.logo{
+    width: 400px;
+    padding: 0;
+    padding-left: 15px;
+    font-size: 20pt;
+}
+.profilImageSmall{
+    margin-top: -15px;
+    margin-bottom: -15px;
+    height: 65px;
+}
+.borderRight{
+    border-right: 1px solid #dbdbdb;
+}
+.borderLeft{
+    border-left: 1px solid #dbdbdb;
+}
+.dropdown-Margin{
+    margin-left: 10px;
+    margin-top: 8px;
+}
+#mainContainer{
+    margin-top:60px;
+}
+/* Od Sime za registacija forma */
+.registerForm{
+    margin-bottom: 10px;
+
+}
+
+.registerFormBegin{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.dropdownWidth{
+
+}
